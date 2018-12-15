@@ -34,7 +34,7 @@ ___
 
 ### Useful Blynk usage
 
-- [Monitor your local ping a Raspberry Pi and Node.js](https://github.com/dominickolbe/blynk-ping)
+- [Monitor your local ping](https://github.com/dominickolbe/blynk-ping)
 
 ___
 
