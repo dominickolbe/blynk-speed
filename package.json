@@ -3,10 +3,24 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Dominic Kolbe <kolbedominic@gmail.com>",
+  "homepage": "https://github.com/dominickolbe/blynk-speed",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dominickolbe/blynk-speed"
+  },
   "license": "MIT",
   "dependencies": {
     "blynk-library": "^0.5.3",
     "dotenv": "^6.2.0",
     "speedtest-net": "^1.4.3"
-  }
+  },
+  "engines": {
+    "node": ">=8.12.0"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "speedtest",
+    "blynk"
+  ]
 }
