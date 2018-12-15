@@ -1,0 +1,12 @@
+{
+  "name": "blynk-speed",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dominic Kolbe <kolbedominic@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "blynk-library": "^0.5.3",
+    "dotenv": "^6.2.0",
+    "speedtest-net": "^1.4.3"
+  }
+}
