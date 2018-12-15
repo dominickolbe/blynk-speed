@@ -28,7 +28,7 @@ pm2 start pm2.json
 
 ### Screenshot Blynk dashboard
 
-<img src="https://cdn.jsdelivr.net/npm/@dominickolbe/blynk-speed/screenshot.jpg" width="300">
+<img src="screenshot.jpg" width="300">
 
 ___
 
