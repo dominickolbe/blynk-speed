@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "name": "blynk-speed",
+      "script": "./index.js",
+      "watch": false,
+      "env": {
+      }
+    }
+  ]
+}
